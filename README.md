@@ -13,7 +13,7 @@ INSERT INTO example ( id, name ) VALUES ( null, 'Sample data' );
 
 ```
 ## Relational entity model## 
-![](https://images.viblo.asia/f2081afb-1116-47c3-b685-2f07746d4169.jpg)
+![](https://images.viblo.asia/f84878e1-41dd-4ce4-99c0-2c118e35922d.jpg)
 
 ## Query
 After installing database and creating Trigger and creating table, insert data in order of hotel, hotel_location, Room, booking, pay
