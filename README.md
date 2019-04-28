@@ -3,9 +3,9 @@ This is a project for database course. It simulates the database of trivago webs
 ## Who use 
 Students who want to improve their Database skills. You can refer to ways to solve problems about a hotel website like trivago.
 # Install
-Install MySQL server on ubuntu 18.04 [](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04)
-Install MySQL server on Windows10 [](https://www.onlinetutorialspoint.com/mysql/install-mysql-on-windows-10-step-by-step.html)
-Install MySQL server on MacOS[](https://tableplus.io/blog/2018/11/how-to-download-mysql-mac.html)
+[Install MySQL server on ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04)
+[Install MySQL server on Windows10](https://www.onlinetutorialspoint.com/mysql/install-mysql-on-windows-10-step-by-step.html)
+[Install MySQL server on MacOS](https://tableplus.io/blog/2018/11/how-to-download-mysql-mac.html)
 ```
 mysql -u username -p
 CREATE DATABASE trivago;
