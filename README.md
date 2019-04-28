@@ -8,6 +8,7 @@ Students who want to improve their Database skills. You can refer to ways to sol
 [Install MySQL server on Windows10](https://www.onlinetutorialspoint.com/mysql/install-mysql-on-windows-10-step-by-step.html)
 
 [Install MySQL server on MacOS](https://tableplus.io/blog/2018/11/how-to-download-mysql-mac.html)
+
 After installing Mysql server.
  
 ```
